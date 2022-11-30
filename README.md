@@ -38,7 +38,7 @@ sudo tasksel install ubuntu-desktop
 
 Note: if you are stuck at the step of "sudo tasksel install ubuntu-desktop", please use "sudo tasksel install ubuntu desktop", installation costs a few mins.
 
-########## Method 2 (Recommand use Ubuntu 20.02 Version): 
+########## Method 2 (Recommend use Ubuntu 20.02 Version): 
 
 https://cdimage.ubuntu.com/focal/daily-live/current/  (Use focal-desktop-arm64.iso)
 
