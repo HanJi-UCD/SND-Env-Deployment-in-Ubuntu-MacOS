@@ -45,6 +45,11 @@ https://cdimage.ubuntu.com/focal/daily-live/current/  (Use focal-desktop-arm64.i
 
 # Step 2: Install Mininet and Ryu controller
 
+Introduction to Mininet:
+
+http://ce.sc.edu/cyberinfra/workshops/Material/SDN/Lab%201%20-%20Introduction%20to%20Mininet%20.pdf
+
+
 Installations:
 
 sudo apt install git
@@ -85,7 +90,17 @@ Solution: https://blog.csdn.net/weixin_39591031/article/details/122389413
 
 # Step 3: Save and load the A-TCNN model 
 
+**1. simple_switch_13.py:**.  https://www.cnblogs.com/kl107/p/13138568.html
 
+
+Basic Mininet Commands: https://blog.csdn.net/ten_sory/article/details/79593554
+
+
+Show Flow Table in Command Line: dpctl dump-flows -O OpenFlow13
+
+Configure different interfaces of the host:
+
+https://blog.csdn.net/weixin_40042248/article/details/112055587?ops_request_misc=&request_id=&biz_id=102&utm_term=mininet%20%E8%AE%BE%E7%BD%AE%E4%B8%BB%E6%9C%BA%E5%A4%9A%E4%B8%AA%E6%8E%A5%E5%8F%A3%E7%9A%84%E5%9C%B0%E5%9D%80&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-112055587.142^v67^control,201^v3^add_ask,213^v2^t3_esquery_v3&spm=1018.2226.3001.4187
 
 # Step 4: Ryu Controller Coding
 
