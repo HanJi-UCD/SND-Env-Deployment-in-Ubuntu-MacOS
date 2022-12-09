@@ -109,11 +109,14 @@ https://blog.51cto.com/u_15067242/4000172
 
 # Step 4: Ryu Controller Coding
 
+ovs-vsctl OpenSwitch Operation:
 
+https://www.youtube.com/watch?v=3mDGiPYBXro&t=1027s
+http://trainer.edu.mirantis.com/SDN50/ovs.html
+http://csie.nqu.edu.tw/smallko/sdn/mininet_simple_router.htm
 
-
-
-
+Visualization tool: 
+https://github.com/ramonfontes/vnd
 
 
 
