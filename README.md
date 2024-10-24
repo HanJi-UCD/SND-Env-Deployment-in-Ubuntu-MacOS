@@ -119,6 +119,11 @@ Visualization tool:
 https://github.com/ramonfontes/vnd
 
 
+#
+Install Anaconda in Ubuntu: 
+https://developer.huawei.com/consumer/cn/blog/topic/03940616429410292
+And then, you can create different new environments, and install dependencies without conflicts.
+
 
 
 
